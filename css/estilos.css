@@ -1,0 +1,198 @@
+.recuadro {
+  background-color: salmon;
+  border: 3px solid blue;
+}
+
+h1 {
+  color: black;
+  font-size: 25px;
+  width: 100%;
+  text-align: left;
+}
+
+.fontLucida {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 23px;
+  letter-spacing: 1.2px;
+  word-spacing: 1.4px;
+  color: #000000;
+  font-weight: 400;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+.fontLucida2 {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 23px;
+  letter-spacing: 1.2px;
+  word-spacing: 1.4px;
+  color: #000000;
+  font-weight: 400;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-align: right;
+}
+
+.fontPeque {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 16px;
+  letter-spacing: 1.2px;
+  word-spacing: 1.4px;
+  color: #000000;
+  font-weight: 400;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+.spacing {
+  line-height: 20pt;
+}
+
+#cuadrado {
+  -webkit-border-radius: 20px 7px 7px 13px;
+  -moz-border-radius: 20px 7px 7px 13px;
+  border-radius: 20px 7px 7px 13px;
+  border: 3px solid black;
+  margin: 30px;
+  background-color: salmon;
+  padding: 30px;
+}
+
+#cuadradoRazon {
+  -webkit-border-radius: 20px 7px 7px 13px;
+  -moz-border-radius: 20px 7px 7px 13px;
+  border-radius: 20px 7px 7px 13px;
+  border: 3px solid black;
+  margin: 30px;
+  background-color: aquamarine;
+  padding: 30px;
+  line-height: 26px;
+  word-wrap: break-word;
+}
+
+.imagen-tamanio {
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+}
+
+.imagenD {
+  height: 300px;
+  width: 300px;
+  border: 2px solid black;
+  margin: 30px;
+  align-self: center;
+}
+
+.imagenF {
+  height: 150px;
+  width: 150px;
+  border: 2px solid black;
+  margin: 5px;
+}
+
+.texto {
+  padding: 20px;
+}
+
+.textoRef {
+  padding: 20px;
+  text-align: right;
+}
+
+#hobbie {
+  -webkit-border-radius: 21px 21px 20px 21px;
+  -moz-border-radius: 21px 21px 20px 21px;
+  border-radius: 21px 21px 20px 21px;
+  border: 3px solid black;
+  margin: 50px;
+  background-color: lightgreen;
+  padding: 55px;
+  word-wrap: break-word;
+}
+
+#hobbie2 {
+  -webkit-border-radius: 21px 21px 20px 21px;
+  -moz-border-radius: 21px 21px 20px 21px;
+  border-radius: 21px 21px 20px 21px;
+  border: 3px solid black;
+  margin: 55px;
+  background-color: lightcyan;
+  padding: 50px;
+  word-wrap: break-word;
+}
+
+#hobbie3 {
+  -webkit-border-radius: 21px 21px 20px 21px;
+  -moz-border-radius: 21px 21px 20px 21px;
+  border-radius: 21px 21px 20px 21px;
+  border: 3px solid black;
+  margin: 55px;
+  background-color: lightgreen;
+  padding: 50px;
+  word-wrap: break-word;
+}
+
+.fontHobbies {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 16px;
+  letter-spacing: 1.2px;
+  word-spacing: 1.4px;
+  color: #000000;
+  font-weight: 400;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+h2 {
+  color: black;
+  font-size: 30px;
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+#padresCuadro {
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
+  border: 3px solid black;
+  margin: 15px;
+  background-color: darkcyan;
+  padding: 25px;
+  word-wrap: break-word;
+}
+
+#brosCuadro {
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
+  border: 3px solid black;
+  margin-left: 525px;
+  margin-right: 10px;
+  margin-top: 10px;
+  background-color: lightsalmon;
+  padding: 10px;
+  word-wrap: break-word;
+}
+
+#mascotasCuadro {
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
+  border: 3px solid black;
+  margin: 10px;
+  background-color: gray;
+  padding: 10px;
+  word-wrap: break-word;
+}
+
+/*# sourceMappingURL=estilos.css.map */
